@@ -30,11 +30,11 @@ This is a testing framework designed to automate testing for the Petstore API us
 
 ## Languages, Frameworks, and Dependencies
 The project uses the following:
-- *[Java 19](https://openjdk.java.net/projects/jdk/11/)* as the programming language.
+- *[Java 19](https://openjdk.java.net/projects/jdk/19/)* as the programming language.
 - *[REST Assured](https://rest-assured.io/)* as the HTTP client.
-- *[TestNG] * as a testing runer framework.
-- *[Java-faker] * as a date generated .
-- *[Maven] * as the Java build tool.
-- *[EClips] * as the IDE.
+- *[TestNG]* as a testing runer framework.
+- *[Java-faker]* as a date generated .
+- *[Maven]* as the Java build tool.
+- *[EClips]* as the IDE.
 
 
