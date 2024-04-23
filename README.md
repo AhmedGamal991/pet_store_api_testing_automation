@@ -20,9 +20,12 @@ This is a testing framework designed to automate testing for the Petstore API us
 - **Running Tests**:
     - Use the provided scripts or commands to run tests.
     - Example command:
-
+        ```bash
         mvn test
-   
+    - Build the project and download dependencies using Maven:
+
+        ```bash
+        mvn clean install   
 
 - **Writing Tests**:
     - I Created and modify test cases as needed in the `src\test\java\api\tests` directory.
@@ -32,9 +35,9 @@ This is a testing framework designed to automate testing for the Petstore API us
 The project uses the following:
 - *[Java 19](https://openjdk.java.net/projects/jdk/19/)* as the programming language.
 - *[REST Assured](https://rest-assured.io/)* as the HTTP client.
-- *[TestNG]* as a testing runer framework.
-- *[Java-faker]* as a date generated .
-- *[Maven]* as the Java build tool.
-- *[EClips]* as the IDE.
+- *[TestNG]()* as a testing runer framework.
+- *[Java-faker]()* as a date generated .
+- *[Maven]()* as the Java build tool.
+- *[EClips]()* as the IDE.
 
 
